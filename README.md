@@ -12,7 +12,3 @@ This project is an **interactive Sales Analysis Dashboard** built in **Power BI*
 - Excel / CSV Dataset
 
 
-## 🔹 How to Use
-1. Clone this repo
-2. Open Dashboard in Power BI Desktop
-3. Connect your dataset or use the sample dataset provided
